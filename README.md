@@ -1,2 +1,3 @@
 # Movie-Recommendation-System
-It recommends movies to the users
+Movie Recommendation System based on cosine similarity.
+
